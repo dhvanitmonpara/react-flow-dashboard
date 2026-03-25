@@ -38,6 +38,7 @@ Users can visually connect an input prompt to an AI response and execute the flo
    MONGO_URI=mongodb://127.0.0.1:27017/mern-flow-ai
    OPENROUTER_API_KEY=your_actual_api_key_here
    OPENROUTER_MODEL=arcee-ai/trinity-mini:free
+   FRONTEND_URL=http://localhost:5173
    ```
 5. Start the backend development server:
    ```bash
